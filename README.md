@@ -34,7 +34,7 @@ In this problem you have to print the largest sum among all the hourglasses in t
 ### Directions
 
 Download the starter code (`Runner.java` and `Grid.java`) and the .txt files (`grid1.txt`, `grid2.txt`, and `grid3.txt`). 
-Then, add your implementation for the `largestSum()` method and complete the `Runner` class.
+Then, add your implementation for the `largestHourglass()` method and complete the `Runner` class.
 
 Read the comments of the provided methods carefully so you know what they do and how to use them.
 
