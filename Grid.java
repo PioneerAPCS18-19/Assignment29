@@ -82,7 +82,7 @@ public class Grid
         {
             grid[r][c++] = inFile.nextInt();  // populate our 2D array with integers from file
             
-            if(c > 5)
+            if(c > NUM_COLS - 1)
             {
                 r++;
                 c = 0;
